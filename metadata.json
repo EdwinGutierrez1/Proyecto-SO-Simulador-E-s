@@ -1,0 +1,6 @@
+{
+  "name": "I/O Simulator: Simulador de Periféricos & Interrupciones",
+  "description": "Simulador interactivo de subsistemas de E/S para Sistemas Operativos (Proyecto #10). Modela teclado, disco, impresora y red, colas de atención, comparación cuantitativa de sondeo (polling) e interrupciones, análisis de métricas y escenarios de fallos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
